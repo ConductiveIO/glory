@@ -1,0 +1,26 @@
+.header{
+  width: 100%;
+  display:inline-block;
+}
+
+#wheretobuy{
+  display: inline-block;
+  float: right;
+}
+
+#glory-icon{
+  height:30px;
+}
+
+/* TOPNAV */
+#topnav-menu{
+  position: relative;
+}
+
+ul{
+  list-style: none;
+}
+
+.topnav-category{
+  display: inline;
+}
